@@ -3,4 +3,5 @@
 *.tfvars
 *.tfstate
 *.tfstate.backup
+repo
 
